@@ -1,5 +1,2 @@
 orange 
 mango
-
-rose
-lile
